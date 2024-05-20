@@ -18,10 +18,12 @@
         <div id="cuadro"></div>
         <p class="areaTriangulo">
         </p>
-            <div class="centrado">
-                <button class="boton"><a href="actividad2_8.jsp">IR a la Actividad 2.8</a></button>
-                <button class="boton"><a href="horarios.jsp">IR a la Actividad 2.8</a></button>
-            </div>
+         <div class="centrado margen-arriba">
+                <a href="actividad2_8.jsp" class="boton">IR a la Actividad 2.8</a>
+                <a href="horarios.jsp" class="boton">IR a Horarios</a>
+                <a href="adivinaLetra.jsp" class="boton">Adivina la Letra</a>
+
+         </div>
 </div>
 </body>
 </html>

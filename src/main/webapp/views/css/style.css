@@ -56,8 +56,12 @@ body{
 }
 a{
     text-decoration: none;
-    color:azure;
+    border: 1px solid darkslategrey;
+
 }
-a:hover{
-    color:darkslategrey;
+.margen-arriba{
+    margin-top: 50px;
+}
+.boton-letra{
+    width: 20px;
 }
